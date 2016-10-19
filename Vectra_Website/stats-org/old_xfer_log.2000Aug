@@ -1,0 +1,8 @@
+24.226.112.204 - anonymous [06/Aug/2000:07:01:56] "[58040]USER anonymous FTP" 331 0 "-" "-"
+24.226.112.204 - - [06/Aug/2000:07:01:56] "[58040]PASS anon@xfer.com FTP" 530 0 "-" "-"
+24.12.179.38 - anonymous [21/Aug/2000:00:34:11] "[11194]USER anonymous FTP" 331 0 "-" "-"
+24.12.179.38 - - [21/Aug/2000:00:34:11] "[11194]PASS anonymous FTP" 530 0 "-" "-"
+62.155.176.57 - anonymous [21/Aug/2000:17:05:46] "[3672]USER anonymous FTP" 331 0 "-" "-"
+62.155.176.57 - - [21/Aug/2000:17:05:46] "[3672]PASS anon@anon.com FTP" 530 0 "-" "-"
+24.12.179.38 - anonymous [22/Aug/2000:13:08:37] "[9443]USER anonymous FTP" 331 0 "-" "-"
+24.12.179.38 - - [22/Aug/2000:13:08:37] "[9443]PASS anon@xfer.com FTP" 530 0 "-" "-"
